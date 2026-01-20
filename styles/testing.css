@@ -1,0 +1,9 @@
+.js-test-summary-grid {
+  display: grid;
+  grid-template-columns: 300px 200px;
+  column-gap: 30px;
+  row-gap: 10px;
+  font-size: 20px;
+  margin-top: 20px;
+  align-items: center;
+}
